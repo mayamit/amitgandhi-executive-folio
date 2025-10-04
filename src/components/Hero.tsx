@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { LinkedinIcon, ArrowRight } from "lucide-react";
-import headshotPlaceholder from "@/assets/headshot-placeholder.jpg";
+import headshotPlaceholder from "@/assets/amitgandhi_cto_hshot.jpg";
 
 export const Hero = () => {
   return (
