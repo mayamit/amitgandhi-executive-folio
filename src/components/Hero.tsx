@@ -33,7 +33,7 @@ export const Hero = () => {
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
               <Button size="lg" variant="outline" className="bg-white/10 text-white border-white/30 hover:bg-white hover:text-primary backdrop-blur-sm" asChild>
-                <a href="https://www.linkedin.com/in/amitgandhi/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/agandhi5/" target="_blank" rel="noopener noreferrer">
                   <LinkedinIcon className="mr-2 h-5 w-5" />
                   Connect on LinkedIn
                 </a>
